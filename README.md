@@ -13,3 +13,5 @@ Few sample screenshots of the output screens are given below:
 
 ![Screenshot (127)](https://user-images.githubusercontent.com/57533513/102967695-84887880-4518-11eb-85fc-4e1f787c4d71.png)
 
+<img width="795" alt="Screenshot (128)" src="https://user-images.githubusercontent.com/57533513/102967975-11333680-4519-11eb-8267-11f14fae8d1a.png">
+
